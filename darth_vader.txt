@@ -1,0 +1,13 @@
+Ambers-Air:2024-RTT-61 zarnelldowns$ mkdir galaxy-far-far-away
+Ambers-Air:2024-RTT-61 zarnelldowns$ cd galaxy-far-far-away/
+Ambers-Air:galaxy-far-far-away zarnelldowns$ touch darth_vader.txt princess_leia.txt strom_trooper.txt
+Ambers-Air:galaxy-far-far-away zarnelldowns$ mkdir tatooine
+Ambers-Air:galaxy-far-far-away zarnelldowns$ cd tatooine
+Ambers-Air:tatooine zarnelldowns$ touch luke.txt ben_kenobi.txt
+Ambers-Air:tatooine zarnelldowns$ mkdir millenium_falcon
+Ambers-Air:tatooine zarnelldowns$ touch han_solo.txt chewbaca.txt
+Ambers-Air:tatooine zarnelldowns$ rm han_solo.txt 
+Ambers-Air:tatooine zarnelldowns$ rm chewbaca.txt 
+Ambers-Air:tatooine zarnelldowns$ cd millenium_falcon/
+Ambers-Air:millenium_falcon zarnelldowns$ touch han_solo.txt chewbaca.txt
+Ambers-Air:millenium_falcon zarnelldowns$ 
